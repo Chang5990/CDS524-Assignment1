@@ -18,3 +18,4 @@ During inference (rungame1.py), each frame it computes scores for Left and Right
    (2) NumPy
    (3) Tkinter
 
+<img width="827" height="468" alt="image" src="https://github.com/user-attachments/assets/1b913305-e05f-4c9b-9532-758ad3b58ab6" />
